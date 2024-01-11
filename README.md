@@ -3,20 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyperez04&label=Profile%20views&color=0e75b6&style=flat" alt="charlyperez04" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlyperez04" alt="charlyperez04" /></a> </p>
+
 - 🔭 I’m currently working on **a website for a client**
 
 - 🌱 I’m currently learning **Astro.js and Flutter**
 
 - 👯 I’m looking to collaborate on **Fullstack development**
 
+- 🤝 I’m looking for help with **get a remote work**
+
 - 💬 Ask me about **React, React Native, Express.js and Tailwind**
 
 - 📫 How to reach me **charlyperezpop@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing](https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing)
 
 - ⚡ Fun fact **I think I have good ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/charlyp04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlyp04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
