@@ -28,7 +28,7 @@
   <li>
     inDrive app <a href="https://play.google.com/store/apps/details?id=com.darman.usdarman">Darman</a> and <a href="https://play.google.com/store/apps/details?id=com.darman.drdarman">Darman Drivers</a>: I've colaborated on this project with the development, design, testing and deployment on App Store and Play Store
   </li>
-  <li>Private CMS</li>: I can't show any URL for privacy agreement. But this project were made with the MERN stack and is about management of vehicles rent, payments, weeks of use, vehicle checks and all about managemente of vehicles 
+  <li>Private CMS: I can't show any URL for privacy agreement. But this project were made with the MERN stack and is about management of vehicles rent, payments, weeks of use, vehicle checks and all about managemente of vehicles fleets</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
