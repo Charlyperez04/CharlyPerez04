@@ -12,6 +12,8 @@
 
 - 🤝 I’m looking for help with **get a remote work on Fullstack Development**
 
+-  👨‍💻 All of my projects are available at [https://portfoliocharly.netlify.app/](https://portfoliocharly.netlify.app/)
+
 - 💬 Ask me about **React, React Native, Express.js and Tailwind**
 
 - 📫 How to reach me **charlyperezpop@gmail.com**
