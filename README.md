@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyperez04&label=Profile%20views&color=0e75b6&style=flat" alt="charlyperez04" /> </p>
 
 
-- 🔭 I’m currently working on **a website for a client**
+- 🔭 I’m currently working on **some cool projects**
 
-- 🌱 I’m currently learning **Astro.js and Flutter**
+- 🌱 I’m currently learning **java and spring**
 
 - 👯 I’m looking to collaborate on **Fullstack development**
-
-- 🤝 I’m looking for help with **get a remote work on Fullstack Development**
 
 -  👨‍💻 All of my projects are available at [https://portfoliocharly.netlify.app/](https://portfoliocharly.netlify.app/)
 
