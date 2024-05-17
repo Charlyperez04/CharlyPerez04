@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyperez04&label=Profile%20views&color=0e75b6&style=flat" alt="charlyperez04" /> </p>
 
 
-- 🔭 I’m currently working on **some cool projects**
+- 🔭 I’m currently working on **a Trello Clone**
 
-- 🌱 I’m currently learning **java and spring**
+- 🌱 I’m currently learning **php and laravel**
 
 - 👯 I’m looking to collaborate on **Fullstack development**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing](https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing)
 
-- ⚡ Fun fact **I think I have good ideas**
+- ⚡ Fun fact **I love help other people**
 
 <h3 align="left">My top clients projects:</h3>
 <ul>
