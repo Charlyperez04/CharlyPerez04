@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyperez04&label=Profile%20views&color=0e75b6&style=flat" alt="charlyperez04" /> </p>
 
 
-- 🔭 I’m currently working on **a Trello Clone**
+- 🔭 I’m currently working on **a Nextjs Store with Shopify**
 
 - 🌱 I’m currently learning **php and laravel**
 
@@ -12,13 +12,13 @@
 
 -  👨‍💻 All of my projects are available at [https://portfoliocharly.netlify.app/](https://portfoliocharly.netlify.app/)
 
-- 💬 Ask me about **React, React Native, Express.js and Tailwind**
+- 💬 Ask me about **React, Nextjs, Nestjs, Filament and Laravel**
 
 - 📫 How to reach me **charlyperezpop@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing](https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing)
 
-- ⚡ Fun fact **I love help other people**
+- ⚡ Fun fact **My dog's name is Coffee**
 
 <h3 align="left">My top clients projects:</h3>
 <ul>
