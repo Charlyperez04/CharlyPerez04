@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyperez04&label=Profile%20views&color=0e75b6&style=flat" alt="charlyperez04" /> </p>
 
 
-- 🔭 I’m currently working on **a Nextjs Store with Shopify**
+- 🔭 I’m currently working on **a AI Sales Representative Bot**
 
 - 🌱 I’m currently learning **php and laravel**
 
