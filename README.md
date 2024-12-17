@@ -4,21 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyperez04&label=Profile%20views&color=0e75b6&style=flat" alt="charlyperez04" /> </p>
 
 
-- 🔭 I’m currently working on **a AI Sales Representative Bot**
+- 🔭 I’m currently working on **a google docs clone**
 
-- 🌱 I’m currently learning **php and laravel**
+- 🌱 I’m currently learning about **ai features and implementations**
 
 - 👯 I’m looking to collaborate on **Fullstack development**
 
--  👨‍💻 All of my projects are available at [https://portfoliocharly.netlify.app/](https://portfoliocharly.netlify.app/)
+-  👨‍💻 All of my projects are available at [https://carlos-perez-p.netlify.app/](https://carlos-perez-p.netlify.app/) 
 
 - 💬 Ask me about **React, Nextjs, Nestjs, Filament and Laravel**
 
-- 📫 How to reach me **charlyperezpop@gmail.com**
+- 📫 How to reach me **carlosperezp04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing](https://drive.google.com/file/d/1hsbyYHYV8kZGx286NgTsffBiceUr1hA-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VFTivOkPZplHOqjCA1Waveb_stU9JDId/view](https://drive.google.com/file/d/1VFTivOkPZplHOqjCA1Waveb_stU9JDId/view)
 
-- ⚡ Fun fact **My dog's name is Coffee**
+- ⚡ Fun fact **My dog's name is Toby**
 
 <h3 align="left">My top clients projects:</h3>
 <ul>
