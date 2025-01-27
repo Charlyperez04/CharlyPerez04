@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyperez04&label=Profile%20views&color=0e75b6&style=flat" alt="charlyperez04" /> </p>
 
 
-- 🔭 I’m currently working on **a google docs clone**
+- 🔭 I’m currently working on **a cms with next js and payload**
 
 - 🌱 I’m currently learning about **ai features and implementations**
 
@@ -33,6 +33,7 @@
 
 <h3 align="left">My projects (just for learning):</h3>
 <ul>
+  <li><a href="https://docs-clone-46v4on8ob-charlyperez04s-projects.vercel.app/">Google docs clone</a> </li>
   <li><a href="https://charlyperez04.github.io/Tasks-admin/">Tasks admin</a> </li>
   <li><a href="https://charlyperez04.github.io/Movie-search-app/">Movie search app</a> </li>
   <li><a href="https://charlyperez04.github.io/Weather-app/">Weather app</a> </li>
